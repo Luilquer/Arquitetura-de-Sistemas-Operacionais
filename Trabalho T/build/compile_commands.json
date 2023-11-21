@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/Carlos Luilquer/Documents/UFSC/Turmas/Turmas 06/Arquitetura de Sistemas Operacionais/Trabalho T/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o CMakeFiles\\EXT3.dir\\main.cpp.obj -c \"C:\\Users\\Carlos Luilquer\\Documents\\UFSC\\Turmas\\Turmas 06\\Arquitetura de Sistemas Operacionais\\Trabalho T\\main.cpp\"",
+  "file": "C:\\Users\\Carlos Luilquer\\Documents\\UFSC\\Turmas\\Turmas 06\\Arquitetura de Sistemas Operacionais\\Trabalho T\\main.cpp"
+},
+{
+  "directory": "C:/Users/Carlos Luilquer/Documents/UFSC/Turmas/Turmas 06/Arquitetura de Sistemas Operacionais/Trabalho T/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o CMakeFiles\\EXT3.dir\\fs.cpp.obj -c \"C:\\Users\\Carlos Luilquer\\Documents\\UFSC\\Turmas\\Turmas 06\\Arquitetura de Sistemas Operacionais\\Trabalho T\\fs.cpp\"",
+  "file": "C:\\Users\\Carlos Luilquer\\Documents\\UFSC\\Turmas\\Turmas 06\\Arquitetura de Sistemas Operacionais\\Trabalho T\\fs.cpp"
+},
+{
+  "directory": "C:/Users/Carlos Luilquer/Documents/UFSC/Turmas/Turmas 06/Arquitetura de Sistemas Operacionais/Trabalho T/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o CMakeFiles\\EXT3.dir\\sha256.cpp.obj -c \"C:\\Users\\Carlos Luilquer\\Documents\\UFSC\\Turmas\\Turmas 06\\Arquitetura de Sistemas Operacionais\\Trabalho T\\sha256.cpp\"",
+  "file": "C:\\Users\\Carlos Luilquer\\Documents\\UFSC\\Turmas\\Turmas 06\\Arquitetura de Sistemas Operacionais\\Trabalho T\\sha256.cpp"
+}
+]
